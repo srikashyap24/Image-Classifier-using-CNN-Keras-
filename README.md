@@ -16,7 +16,7 @@ This project demonstrates the use of a **Convolutional Neural Network (CNN)** bu
 - Evaluated model performance using accuracy metrics.
 
 ## 📁 Dataset
-- The model is trained on the (https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD).
+- The model is trained on the (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1BtRjUxWTZBVkZUbVAtVk1EbndxbXg1MUJaQXxBQ3Jtc0tscWVzNnNybTlpRzBYVmdTZ0hkQkxIU1VEekppV1lxVnVkNGk2VHotWmdOaWtVeW1sZng2OGpQZlB5WnkybllkaUI5WFpsWFI1UFUta01oNmt5TDRQellxb3hFQnl6MWQwQ0RaeXp2dmh4dlc1LW9qQQ&q=https%3A%2F%2Fbit.ly%2FImgClsKeras&v=J1jhfAw5Uvo)).
 - Images are preprocessed (resized and normalized) before training.
 
 
