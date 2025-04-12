@@ -10,7 +10,7 @@ This project demonstrates the use of a **Convolutional Neural Network (CNN)** bu
 - Jupyter Notebook
 
 ## 🧠 Model Overview
-- Used the **Sequential API** from Keras to build the CNN.
+- Used the **Sequential** from Keras to build the CNN.
 - Consists of multiple convolutional, pooling, and dense layers.
 - Trained on a dataset of labeled cat and dog images.
 - Evaluated model performance using accuracy metrics.
